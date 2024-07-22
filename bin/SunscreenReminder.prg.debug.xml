@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/manifest.xml"/>
+<pcToLineNum>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc" id="1" lineNum="26" parent="globals" pc="268435460" symbol="getApp"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc" id="1" lineNum="27" parent="globals" pc="268435470" symbol="getApp"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/bin/gen/006-B3907-00/source/Rez.mcgen" id="2" lineNum="7" parent="globals/Rez" pc="268435481" symbol="&lt;init&gt;"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc" id="3" lineNum="5" parent="globals/SunscreenReminderApp" pc="268435501" symbol="&lt;init&gt;"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="4" lineNum="13" parent="globals/SunscreenReminderView" pc="268435513" symbol="&lt;init&gt;"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc" id="5" lineNum="12" parent="globals/SunscreenReminderApp" pc="268435525" symbol="onStart"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc" id="6" lineNum="20" parent="globals/SunscreenReminderApp" pc="268435528" symbol="getInitialView"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc" id="6" lineNum="21" parent="globals/SunscreenReminderApp" pc="268435530" symbol="getInitialView"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc" id="7" lineNum="7" parent="globals/SunscreenReminderApp" pc="268435560" symbol="initialize"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc" id="7" lineNum="8" parent="globals/SunscreenReminderApp" pc="268435562" symbol="initialize"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc" id="8" lineNum="16" parent="globals/SunscreenReminderApp" pc="268435575" symbol="onStop"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="9" lineNum="24" parent="globals/SunscreenReminderView" pc="268435578" symbol="compute"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="9" lineNum="25" parent="globals/SunscreenReminderView" pc="268435581" symbol="compute"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="9" lineNum="26" parent="globals/SunscreenReminderView" pc="268435594" symbol="compute"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="9" lineNum="28" parent="globals/SunscreenReminderView" pc="268435605" symbol="compute"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="9" lineNum="29" parent="globals/SunscreenReminderView" pc="268435616" symbol="compute"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="9" lineNum="30" parent="globals/SunscreenReminderView" pc="268435626" symbol="compute"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="9" lineNum="31" parent="globals/SunscreenReminderView" pc="268435633" symbol="compute"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="9" lineNum="34" parent="globals/SunscreenReminderView" pc="268435644" symbol="compute"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="9" lineNum="35" parent="globals/SunscreenReminderView" pc="268435651" symbol="compute"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="9" lineNum="36" parent="globals/SunscreenReminderView" pc="268435666" symbol="compute"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="9" lineNum="38" parent="globals/SunscreenReminderView" pc="268435677" symbol="compute"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="9" lineNum="40" parent="globals/SunscreenReminderView" pc="268435686" symbol="compute"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="10" lineNum="45" parent="globals/SunscreenReminderView" pc="268435705" symbol="alert"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="10" lineNum="46" parent="globals/SunscreenReminderView" pc="268435708" symbol="alert"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="10" lineNum="47" parent="globals/SunscreenReminderView" pc="268435723" symbol="alert"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="10" lineNum="50" parent="globals/SunscreenReminderView" pc="268435741" symbol="alert"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="10" lineNum="51" parent="globals/SunscreenReminderView" pc="268435756" symbol="alert"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="10" lineNum="57" parent="globals/SunscreenReminderView" pc="268435852" symbol="alert"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="11" lineNum="61" parent="globals/SunscreenReminderView" pc="268435871" symbol="formatTime"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="11" lineNum="63" parent="globals/SunscreenReminderView" pc="268435874" symbol="formatTime"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="11" lineNum="66" parent="globals/SunscreenReminderView" pc="268435882" symbol="formatTime"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="11" lineNum="67" parent="globals/SunscreenReminderView" pc="268435902" symbol="formatTime"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="11" lineNum="70" parent="globals/SunscreenReminderView" pc="268435909" symbol="formatTime"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="11" lineNum="73" parent="globals/SunscreenReminderView" pc="268435916" symbol="formatTime"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="11" lineNum="74" parent="globals/SunscreenReminderView" pc="268435924" symbol="formatTime"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="11" lineNum="76" parent="globals/SunscreenReminderView" pc="268435937" symbol="formatTime"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="11" lineNum="79" parent="globals/SunscreenReminderView" pc="268435949" symbol="formatTime"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="11" lineNum="82" parent="globals/SunscreenReminderView" pc="268435959" symbol="formatTime"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="11" lineNum="83" parent="globals/SunscreenReminderView" pc="268435967" symbol="formatTime"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="11" lineNum="85" parent="globals/SunscreenReminderView" pc="268435980" symbol="formatTime"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="11" lineNum="87" parent="globals/SunscreenReminderView" pc="268435992" symbol="formatTime"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="12" lineNum="17" parent="globals/SunscreenReminderView" pc="268435995" symbol="initialize"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="12" lineNum="18" parent="globals/SunscreenReminderView" pc="268435997" symbol="initialize"/>
+<entry filename="/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderView.mc" id="12" lineNum="19" parent="globals/SunscreenReminderView" pc="268436009" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="10" method="true" symbol="alert"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8" object="true" symbol="SunscreenReminderApp"/>
+<entry field="true" id="11" symbol="didAlert"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry id="4" module="true" symbol="globals/Rez/Strings"/>
+<entry id="12" method="true" symbol="formatTime"/>
+<entry id="8388631" module="true" symbol="Activity"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry field="true" id="6" symbol="CYCLE_DURATION_MS"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="8391275" object="true" symbol="ToneProfile"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8388987" method="true" symbol="vibrate"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry field="true" id="5" symbol="CYCLE_COUNT"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="7" symbol="HALF_A_MINUTE_IN_MS"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388636" module="true" symbol="Attention"/>
+<entry id="9" object="true" symbol="SunscreenReminderView"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435704" name="info" stackId="1" startPc="268435578"/>
+<entry endPc="268435703" name="total_cycle_time" stackId="2" startPc="268435581"/>
+<entry endPc="268435703" name="time_left_in_cycle" stackId="3" startPc="268435581"/>
+<entry endPc="268435866" name="vibeData" stackId="1" startPc="268435756"/>
+<entry arg="true" endPc="268435994" name="milliseconds" stackId="1" startPc="268435871"/>
+<entry endPc="268435994" name="seconds" stackId="2" startPc="268435874"/>
+<entry endPc="268435994" name="minutes" stackId="3" startPc="268435874"/>
+<entry endPc="268435994" name="formattedTime" stackId="4" startPc="268435874"/>
+</localVars>
+<deviceInfo deviceVersion="e051f43bb0daafe8eab22996b91b54da72a8fb6a" partNumber="006-B3907-00"/>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="49" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/Rez" offset="143" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/SunscreenReminderApp" offset="187" parentId="globals" symbolId="SunscreenReminderApp" type="class"/>
+<dataEntry label="globals/SunscreenReminderView" offset="258" parentId="globals" symbolId="SunscreenReminderView" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="338" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="373" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435480" name="getApp" startPc="268435460">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435500" name="&lt;init&gt;" parent="Rez" startPc="268435481">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435512" name="&lt;init&gt;" parent="SunscreenReminderApp" startPc="268435501">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435524" name="&lt;init&gt;" parent="SunscreenReminderView" startPc="268435513">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435527" name="onStart" parent="SunscreenReminderApp" startPc="268435525">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435559" name="getInitialView" parent="SunscreenReminderApp" startPc="268435528">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435574" name="initialize" parent="SunscreenReminderApp" startPc="268435560">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435577" name="onStop" parent="SunscreenReminderApp" startPc="268435575">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435704" name="compute" parent="SunscreenReminderView" startPc="268435578">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435870" name="alert" parent="SunscreenReminderView" startPc="268435705">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435994" name="formatTime" parent="SunscreenReminderView" startPc="268435871">
+<param id="milliseconds"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436021" name="initialize" parent="SunscreenReminderView" startPc="268435995">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

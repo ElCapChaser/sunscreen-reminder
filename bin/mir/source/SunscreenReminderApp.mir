@@ -1,0 +1,57 @@
+[ @file = "/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc"; @line = 1; ]
+import Toybox.Application;
+[ @file = "/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc"; @line = 2; ]
+import Toybox.Lang;
+[ @file = "/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc"; @line = 3; ]
+import Toybox.WatchUi;
+[ @file = "/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc"; @line = 5; ]
+class SunscreenReminderApp extends Application.AppBase{
+    [ @file = "/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc"; @line = 5; ]
+    <init> {
+    }
+    [ @file = "/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc"; @line = 5; ]
+    static
+    <init> {
+    }
+    [ @file = "/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc"; @line = 7; ]
+    function initialize() as Void {
+_Users_stevenhome_Desktop_Garmin_extensions_SunscreenReminder_source_SunscreenReminderApp_mc_7_26_9_4_start:
+[ "/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc" 8 8 ]
+        %tmp.2 = getv ? :AppBase;
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+_Users_stevenhome_Desktop_Garmin_extensions_SunscreenReminder_source_SunscreenReminderApp_mc_7_26_9_4_stop:
+    }
+    [ @file = "/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc"; @line = 12; ]
+    function onStart(state as Dictionary or Null) as Void {
+    }
+    [ @file = "/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc"; @line = 16; ]
+    function onStop(state as Dictionary or Null) as Void {
+    }
+    [ @file = "/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc"; @line = 20; ]
+    function getInitialView() as [Views] or [Views, InputDelegates] {
+_Users_stevenhome_Desktop_Garmin_extensions_SunscreenReminder_source_SunscreenReminderApp_mc_20_68_22_4_start:
+[ "/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc" 21 8 ]
+        %tmp.1 = newa 1;
+        %tmp.5 = getv ? :SunscreenReminderView;
+        %tmp.2 = newc %tmp.5 ();
+        %tmp.6 = dup %tmp.1;
+        %tmp.7 = aputv %tmp.6 0 %tmp.2;
+        ret %tmp.7;
+_Users_stevenhome_Desktop_Garmin_extensions_SunscreenReminder_source_SunscreenReminderApp_mc_20_68_22_4_stop:
+    }
+}
+[ @file = "/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc"; @line = 26; ]
+function getApp() as SunscreenReminderApp {
+_Users_stevenhome_Desktop_Garmin_extensions_SunscreenReminder_source_SunscreenReminderApp_mc_26_42_28_0_start:
+[ "/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc" 27 4 ]
+    %tmp.1 = getm $.Toybox.Application;
+    %tmp.2 = getv function %tmp.1 :getApp;
+    %tmp.3 = invoke %tmp.1 %tmp.2();
+    %tmp.4 = as %tmp.3 SunscreenReminderApp;
+    ret %tmp.4;
+_Users_stevenhome_Desktop_Garmin_extensions_SunscreenReminder_source_SunscreenReminderApp_mc_26_42_28_0_stop:
+}
+[ @file = "/Users/stevenhome/Desktop/Garmin extensions/SunscreenReminder/source/SunscreenReminderApp.mc"; @line = 1; ]
+<init> {
+}
